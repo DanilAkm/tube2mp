@@ -1,0 +1,11 @@
+# users
+# files
+lib
+lib64
+bin
+include
+.env
+bot.log
+error.mp3
+*.out
+*.cfg
